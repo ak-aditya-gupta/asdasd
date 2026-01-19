@@ -1,5 +1,5 @@
 {
-  "startHour": 0,
+  "startHour": 1,
   "endHour": 18,
   "timezone": "Asia/Kolkata",
   "blockEnabled": true
